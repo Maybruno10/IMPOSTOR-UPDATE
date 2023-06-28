@@ -29,7 +29,7 @@ import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 import lime.app.Application;
 import openfl.Assets;
-
+#if newgrounds #end
 #if sys
 import sys.FileSystem;
 #end
